@@ -1,0 +1,43 @@
+{
+  "name": "ngx-mat-tag-input",
+  "version": "0.0.1",
+  "description": "Angular tags-input based on Material Angular",
+  "author": "Adnane Lamghari",
+  "repository": {
+    "url": "https://github.com/adnanelamghari/ngx-mat-tag-input",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/adnanelamghari/ngx-mat-tag-input/issues"
+  },
+  "homepage": "https://github.com/adnanelamghari/ngx-mat-tag-input",
+  "keywords": [
+    "angular",
+    "angular-material",
+    "tags",
+    "tags-input",
+    "tag-input",
+    "input",
+    "material-design",
+    "material-ui"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/cdk": "^9.2.1",
+    "@angular/common": "^9.1.1",
+    "@angular/core": "^9.1.1",
+    "@angular/forms": "~9.1.1",
+    "@angular/material": "^9.2.1",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/ngx-mat-tag-input.umd.js",
+  "module": "fesm5/ngx-mat-tag-input.js",
+  "es2015": "fesm2015/ngx-mat-tag-input.js",
+  "esm5": "esm5/ngx-mat-tag-input.js",
+  "esm2015": "esm2015/ngx-mat-tag-input.js",
+  "fesm5": "fesm5/ngx-mat-tag-input.js",
+  "fesm2015": "fesm2015/ngx-mat-tag-input.js",
+  "typings": "ngx-mat-tag-input.d.ts",
+  "metadata": "ngx-mat-tag-input.metadata.json",
+  "sideEffects": false
+}
